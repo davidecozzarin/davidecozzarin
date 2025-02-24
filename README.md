@@ -30,5 +30,4 @@ Here are some of my key projects:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidecozzarin&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidecozzarin&layout=compact&theme=dark)  
