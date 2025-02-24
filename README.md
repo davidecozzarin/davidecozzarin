@@ -19,7 +19,6 @@ Here are some of my key projects:
 ## 🛠️ Skills  
 💻 **Programming Languages:** Java, Python, JavaScript, HTML, CSS  
 ⚡ **Software Development:** Git, Agile Methodology, DevOps, Programming Paradigms  
-☁ **Cloud & Tools:** AWS CDK, MongoDB, Streamlit, Docker  
 🌍 **Languages:** Italian (Native), English (B2)  
 
 ---
