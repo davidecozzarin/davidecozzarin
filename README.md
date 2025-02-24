@@ -26,7 +26,7 @@ Here are some of my key projects:
 
 ## 📫 Connect with me  
 🔗 **[GitHub](https://github.com/davidecozzarin)**  
-🔗 **[LinkedIn](#)** *()*  
+🔗 **[LinkedIn](#www.linkedin.com/in/davide-cozzarin/)**  
 📩 **Email:** cozzarindavide@gmail.com  
 
 ---
