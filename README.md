@@ -30,4 +30,3 @@ Here are some of my key projects:
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidecozzarin&layout=compact&theme=dark)  
