@@ -1,7 +1,6 @@
 ### Hi there! I'm Davide Cozzarin 👋
  🚀 **Computer Engineering Master's student** with a strong passion for **Software Engineering** and **Cybersecurity**.  
 🔹 I enjoy solving challenging problems and continuously learning new technologies.  
-🔹 Skilled in **Java, Python, JavaScript**.
 
 ---
 
